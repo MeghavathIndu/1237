@@ -2,4 +2,6 @@
 int main()
 {
 print("hi indu")
+print("hello friends")
 }
+
